@@ -1,5 +1,6 @@
 # Financial-Advisor-Dashboard
 used prompt Ai to built this model
+https://claude.ai/public/artifacts/1dc2af1c-33da-4d02-9c3c-06302ee07173
 
 🎯 Core Functionality
 User Input System:
